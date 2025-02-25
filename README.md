@@ -11,4 +11,4 @@
 * SonarLint, Java > 22
 * Run Local and on Selenoid Integration.
   
-<img src="https://github.com/user-attachments/assets/e57a68a5-fe4e-4128-ba6e-145808f9341f" alt="Selenium Framework" width="300" height="200">
+https://github.com/user-attachments/assets/e57a68a5-fe4e-4128-ba6e-145808f9341f
