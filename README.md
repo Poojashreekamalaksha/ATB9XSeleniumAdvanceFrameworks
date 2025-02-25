@@ -1,5 +1,5 @@
 **Selenium Automation Framework(with Java)**
-* Author - Pramod Dutta
+* Author - Poojashree
 * Java, Selenium, TestNG
 * Maven, AssertJ, POM
 * Thread Local Support → Thread Safety
