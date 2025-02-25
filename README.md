@@ -10,5 +10,5 @@
 * Cloud Grids - BrowserStack, LambdaTest
 * SonarLint, Java > 22
 * Run Local and on Selenoid Integration.
-  
-<img src="C:\Users\HP\Downloads\SeleniumFramework.png" alt="Alt Text" width="300" height="200">
+
+<img src="images/SeleniumFramework.png" alt="Selenium Framework" width="300" height="200">
