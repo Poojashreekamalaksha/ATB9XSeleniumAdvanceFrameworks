@@ -10,3 +10,5 @@
 * Cloud Grids - BrowserStack, LambdaTest
 * SonarLint, Java > 22
 * Run Local and on Selenoid Integration.
+  
+<img src="SeleniumFramework.png" alt="Alt Text" width="300" height="200">
